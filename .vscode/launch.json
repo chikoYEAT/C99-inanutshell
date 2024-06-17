@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "c:/projects/C-learning",
-      "program": "c:/projects/C-learning/build/Debug/outDebug",
+      "externalConsole": false,
+      "cwd": "/home/imanav10/projects/C-learning/Day 3",
+      "program": "/home/imanav10/projects/C-learning/Day 3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
