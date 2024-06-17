@@ -1,14 +1,4 @@
 {
-  "workbench.colorCustomizations": {
-    "activityBar.activeBackground": "#ff3333",
-    "activityBar.background": "#ff3333",
-    "activityBar.foreground": "#e7e7e7",
-    "activityBar.inactiveForeground": "#e7e7e799",
-    "activityBarBadge.background": "#00df00",
-    "activityBarBadge.foreground": "#15202b",
-    "panel.border": "#ff3333",
-    "sash.hoverBorder": "#ff3333"
-  },
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
   "C_Cpp_Runner.debuggerPath": "gdb",
@@ -65,8 +55,5 @@
   "C_Cpp_Runner.useLeakSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
-  "C_Cpp_Runner.msvcSecureNoWarnings": false,
-  "files.associations": {
-    "pun.C": "cpp"
-  }
+  "C_Cpp_Runner.msvcSecureNoWarnings": false
 }
