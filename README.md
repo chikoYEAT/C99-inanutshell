@@ -2,3 +2,4 @@
 
 
 basicallllly C99
+![image](assets/lmao.jpg)
