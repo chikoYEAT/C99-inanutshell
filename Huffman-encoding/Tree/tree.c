@@ -11,6 +11,7 @@ extern int f[];
 extern int left[];
 extern int right[];
 
+
 int processTree(int c) {
     int n, Q, temp, a, b;
     n = c; // Assuming |c| was meant to be absolute value or a direct assignment. Here, it's treated as direct assignment.
