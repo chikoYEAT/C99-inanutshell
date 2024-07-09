@@ -7,7 +7,6 @@ extern int f[];
 extern int left[];
 extern int right[];
 
-
 int processTree(int c) {
     int n, Q, temp, a, b;
     n = c;
